@@ -30,4 +30,4 @@ const countdown = (deadline,elem,finalMessage) => {
   }, 1000)
 };
 
-countdown('Jun 03 2020 15:30:0 GMT+0100', 'cuenta-atras', '¡Ya empezó!');
+countdown('Jun 02 2020 15:30:0 GMT+0100', 'cuenta-atras', 'Join us!');
